@@ -1,2 +1,2 @@
-# Prac
+# Practice
 office training resources
